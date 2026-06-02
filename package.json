@@ -1,0 +1,10 @@
+{
+  "name": "@mirogate/secure-droplet-bootstrap",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Lockout-safe baseline hardening scripts and Codex skill for DigitalOcean Ubuntu droplets.",
+  "license": "MIT",
+  "scripts": {
+    "test": "bash -n scripts/*.sh"
+  }
+}
